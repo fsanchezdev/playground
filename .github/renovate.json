@@ -3,9 +3,6 @@
   "extends": [
     "config:best-practices"
   ],
-  "baseBranches": [
-    "main"
-  ],
   "schedule": [
     "before 4am on the first day of the month"
   ],
